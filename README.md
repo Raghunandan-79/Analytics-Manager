@@ -219,18 +219,7 @@ events_total{event_type="BUY_COURSE_CLICKED"} / events_total{event_type="COURSE_
 - **Microservices Communication** - Kafka as central event broker
 - **Separation of Concerns** - Producer and Consumer independently scalable
 
-## Future Improvements
-
-- [ ] Docker Compose setup for easier deployment
-- [ ] Elasticsearch + Kibana for log aggregation
-- [ ] Alerting rules in Prometheus
-- [ ] Authentication & authorization (OAuth2)
-- [ ] Multi-partition Kafka topic with consumer group scaling
-- [ ] Database persistence (PostgreSQL) for event history
-- [ ] Advanced Grafana dashboards with drill-down capabilities
-- [ ] Load testing with JMeter
-- [ ] CI/CD pipeline (GitHub Actions)
-
 ## Author
+Raghunandan Sharma
 
 Created as an educational project demonstrating event-driven analytics with modern Java stack.
