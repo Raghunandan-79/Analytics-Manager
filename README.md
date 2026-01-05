@@ -1,4 +1,4 @@
-# Course Platform Analytics
+# Analytics Manager
 
 Event-driven analytics system using Kafka, Prometheus, and Grafana to track and visualize user behavior on a course platform.
 
